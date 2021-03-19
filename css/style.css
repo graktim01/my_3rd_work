@@ -1,0 +1,52 @@
+.box{
+height: 200px;
+width: 200px;
+}
+.box1{
+background-color:#FF4C33;
+padding: 50px;
+}
+.box2{
+background-color: #FF6833 ;
+margin: 40px;
+}
+.minheight{
+min-height: 50px;
+background-color: #FFCA33;
+}
+.header{
+min-height: 100px;
+background-color: #CEFF33;
+}
+.wrapper{
+overflow: hidden;
+}
+.blog{float: left;
+width: 60%;
+min-height: 150px;
+background-color: #AC33FF;
+}
+.contact{
+float: right;
+width: 40%;
+min-height: 150px;
+background-color: #8E5B69;
+}
+.footer{
+min-height: 80px;
+background-color: #708E5B;
+}
+.first{
+float: left;
+width: 33.3%;
+min-height: 160px;
+}
+.box3{
+background-color: #C70039;
+}
+.box4{
+background-color: #581845;
+}
+.box5{
+background-color: #FFC300;
+}
